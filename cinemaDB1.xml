@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <ID_movie_1>
+    <ID_movie_1>
+      <name>Interstellar</name>
+      <Duration>169</Duration>
+      <Year_of_release>2014</Year_of_release>
+      <Rating>8.3</Rating>
+      <Genre>['fantastic', 'drama', 'adventure']</Genre>
+      <movie_id>1</movie_id>
+    </ID_movie_1>
+  </ID_movie_1>
+  <ID_movie_2>
+    <ID_movie_2>
+      <name>The Shawshank Redemption</name>
+      <Duration>144</Duration>
+      <Year_of_release>1994</Year_of_release>
+      <Rating>8.2</Rating>
+      <Genre>['drama']</Genre>
+      <movie_id>2</movie_id>
+    </ID_movie_2>
+  </ID_movie_2>
+  <ID_movie_3>
+    <ID_movie_3>
+      <name>Shutter Island</name>
+      <Duration>140</Duration>
+      <Year_of_release>2009</Year_of_release>
+      <Rating>8.1</Rating>
+      <Genre>['thriller', 'detective', 'drama']</Genre>
+      <movie_id>3</movie_id>
+    </ID_movie_3>
+  </ID_movie_3>
+  <ID_movie_4>
+    <ID_movie_4>
+      <name>The Green Mile</name>
+      <Duration>189</Duration>
+      <Year_of_release>1999</Year_of_release>
+      <Rating>8.1</Rating>
+      <Genre>['drama', 'fantasy', 'crime']</Genre>
+      <movie_id>4</movie_id>
+    </ID_movie_4>
+  </ID_movie_4>
+  <ID_movie_5>
+    <ID_movie_5>
+      <name>Intouchables</name>
+      <Duration>112</Duration>
+      <Year_of_release>2011</Year_of_release>
+      <Rating>8.4</Rating>
+      <Genre>['drama', 'comedy']</Genre>
+      <movie_id>5</movie_id>
+    </ID_movie_5>
+  </ID_movie_5>
+  <ID_movie_6>
+    <ID_movie_6>
+      <name>The Gentlemen</name>
+      <Duration>113</Duration>
+      <Year_of_release>2019</Year_of_release>
+      <Rating>8.1</Rating>
+      <Genre>['crime', 'comedy', 'action']</Genre>
+      <movie_id>6</movie_id>
+    </ID_movie_6>
+  </ID_movie_6>
+  <ID_movie_10>
+    <ID_movie_10>
+      <name>Forrest Gump</name>
+      <Duration>142</Duration>
+      <Year_of_release>1994</Year_of_release>
+      <Rating>8.0</Rating>
+      <Genre>['drama', 'comedy', 'melodrama', 'story', 'military']</Genre>
+      <movie_id>9</movie_id>
+    </ID_movie_10>
+  </ID_movie_10>
+  <ID_movie_11>
+    <ID_movie_11>
+      <name>Game of Thrones</name>
+      <Duration>55</Duration>
+      <Year_of_release>2011</Year_of_release>
+      <Rating>8.4</Rating>
+      <Genre>['fantasy', 'drama', 'action', 'melodrama', 'adventure']</Genre>
+      <movie_id>11</movie_id>
+      <amount_of_seasons>8</amount_of_seasons>
+      <amount_of_series>80</amount_of_series>
+      <duration_each_series>55</duration_each_series>
+    </ID_movie_11>
+  </ID_movie_11>
+  <ID_movie_12>
+    <ID_movie_12>
+      <name>Breaking Bad</name>
+      <Duration>47</Duration>
+      <Year_of_release>2008</Year_of_release>
+      <Rating>8.3</Rating>
+      <Genre>['crime', 'drama', 'thriller']</Genre>
+      <movie_id>12</movie_id>
+      <amount_of_seasons>5</amount_of_seasons>
+      <amount_of_series>62</amount_of_series>
+      <duration_each_series>47</duration_each_series>
+    </ID_movie_12>
+  </ID_movie_12>
+  <ID_movie_13>
+    <ID_movie_13>
+      <name>Better Call Saul</name>
+      <Duration>45</Duration>
+      <Year_of_release>2015</Year_of_release>
+      <Rating>7.8</Rating>
+      <Genre>['drama', 'crime']</Genre>
+      <movie_id>13</movie_id>
+      <amount_of_seasons>6</amount_of_seasons>
+      <amount_of_series>63</amount_of_series>
+      <duration_each_series>45</duration_each_series>
+    </ID_movie_13>
+  </ID_movie_13>
+</root>

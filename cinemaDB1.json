@@ -1,0 +1,131 @@
+{
+    "ID:1": {
+        "name": "Interstellar",
+        "Duration": 169,
+        "Year_of_release": 2014,
+        "Rating": 8.3,
+        "Genre": [
+            "fantastic",
+            "drama",
+            "adventure"
+        ],
+        "movie_id": 1
+    },
+    "ID:2": {
+        "name": "The Shawshank Redemption",
+        "Duration": 144,
+        "Year_of_release": 1994,
+        "Rating": 8.2,
+        "Genre": [
+            "drama"
+        ],
+        "movie_id": 2
+    },
+    "ID:3": {
+        "name": "Shutter Island",
+        "Duration": 140,
+        "Year_of_release": 2009,
+        "Rating": 8.1,
+        "Genre": [
+            "thriller",
+            "detective",
+            "drama"
+        ],
+        "movie_id": 3
+    },
+    "ID:4": {
+        "name": "The Green Mile",
+        "Duration": 189,
+        "Year_of_release": 1999,
+        "Rating": 8.1,
+        "Genre": [
+            "drama",
+            "fantasy",
+            "crime"
+        ],
+        "movie_id": 4
+    },
+    "ID:5": {
+        "name": "Intouchables",
+        "Duration": 112,
+        "Year_of_release": 2011,
+        "Rating": 8.4,
+        "Genre": [
+            "drama",
+            "comedy"
+        ],
+        "movie_id": 5
+    },
+    "ID:6": {
+        "name": "The Gentlemen",
+        "Duration": 113,
+        "Year_of_release": 2019,
+        "Rating": 8.1,
+        "Genre": [
+            "crime",
+            "comedy",
+            "action"
+        ],
+        "movie_id": 6
+    },
+    "ID:10": {
+        "name": "Forrest Gump",
+        "Duration": 142,
+        "Year_of_release": 1994,
+        "Rating": 8.0,
+        "Genre": [
+            "drama",
+            "comedy",
+            "melodrama",
+            "story",
+            "military"
+        ],
+        "movie_id": 9
+    },
+    "ID:11": {
+        "name": "Game of Thrones",
+        "Duration": 55,
+        "Year_of_release": 2011,
+        "Rating": 8.4,
+        "Genre": [
+            "fantasy",
+            "drama",
+            "action",
+            "melodrama",
+            "adventure"
+        ],
+        "movie_id": 11,
+        "amount_of_seasons": 8,
+        "amount_of_series": 80,
+        "duration_each_series": 55
+    },
+    "ID:12": {
+        "name": "Breaking Bad",
+        "Duration": 47,
+        "Year_of_release": 2008,
+        "Rating": 8.3,
+        "Genre": [
+            "crime",
+            "drama",
+            "thriller"
+        ],
+        "movie_id": 12,
+        "amount_of_seasons": 5,
+        "amount_of_series": 62,
+        "duration_each_series": 47
+    },
+    "ID:13": {
+        "name": "Better Call Saul",
+        "Duration": 45,
+        "Year_of_release": 2015,
+        "Rating": 7.8,
+        "Genre": [
+            "drama",
+            "crime"
+        ],
+        "movie_id": 13,
+        "amount_of_seasons": 6,
+        "amount_of_series": 63,
+        "duration_each_series": 45
+    }
+}
